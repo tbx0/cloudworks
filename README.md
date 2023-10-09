@@ -50,4 +50,4 @@ Welcome to my professional website design portfolio! I specialize in creating st
 
 Let's collaborate to bring your vision to life! If you're interested in working with me for your next web project or have any inquiries, please don't hesitate to contact me.
 
-[Contact Me](mailto:meisterhafiz@gmail.com) | [Portfolio Website](https://github.com/tbx0/cloudworks.github.io)
+[Contact Me](mailto:meisterhafiz@gmail.com) | [Portfolio Website](https://github.com/tbx0/cloudworks/)
