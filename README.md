@@ -3,7 +3,7 @@ Welcome to my personal website design portfolio! I specialize in creating stunni
 
  👉 [Portfolio Website](https://github.com/tbx0/cloudworks/)
  
-![image](https://github.com/tbx0/cloudworks/blob/gh-pages/src/img/featured-img.png)
+[![image](https://github.com/tbx0/cloudworks/blob/gh-pages/src/img/featured-img.png)](https://github.com/tbx0/cloudworks/)
 
 ## Why Hire Me for Your Website Design Needs?
 
