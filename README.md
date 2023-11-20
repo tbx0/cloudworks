@@ -1,9 +1,9 @@
 # Professional Website Design Portfolio
 Welcome to my personal website design portfolio! I specialize in creating stunning and functional websites that not only look great but also deliver exceptional user experiences. Below, you'll find links to some of the websites I've designed, along with reasons why you should consider me for your next web project.
 
- 👉 [Portfolio Website](https://github.com/tbx0/cloudworks/)
+ 👉 [Portfolio Website](https://tbx0.github.io/cloudworks/)
  
-[![image](https://github.com/tbx0/cloudworks/blob/gh-pages/src/img/featured-img.png)](https://github.com/tbx0/cloudworks/)
+[![image](https://github.com/tbx0/cloudworks/blob/gh-pages/src/img/featured-img.png)](https://tbx0.github.io/cloudworks/)
 
 ## Why Hire Me for Your Website Design Needs?
 
