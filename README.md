@@ -34,7 +34,7 @@ Welcome to my professional website design portfolio! I specialize in creating st
 - Content-focused design for an enjoyable reading experience.
 - Mobile-optimized for readers on the go.
 
-## Why Choose Me for Your Website Design Needs?
+## Why Hire Me for Your Website Design Needs?
 
 - **Experience:** With a proven track record of designing websites across various industries, I bring years of experience to the table. My portfolio showcases my versatility and ability to tailor designs to your specific needs.
 
