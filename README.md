@@ -21,4 +21,4 @@ Welcome to my personal website design portfolio! I specialize in creating stunni
 
 Let's collaborate to bring your vision to life! If you're interested in working with me for your next web project or have any inquiries, please don't hesitate to contact me.
 
-[Contact Me](mailto:meisterhafiz@gmail.com)
+[Mail](mailto:meisterhafiz@gmail.com) | [WhatsApp](https://api.whatsapp.com/send?phone=60105481856&text=Web%20Designer%20Wanted)
