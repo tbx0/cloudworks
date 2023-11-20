@@ -1,5 +1,5 @@
 # Professional Website Design Portfolio
-Welcome to my professional website design portfolio! I specialize in creating stunning and functional websites that not only look great but also deliver exceptional user experiences. Below, you'll find links to some of the websites I've designed, along with reasons why you should consider me for your next web project.
+Welcome to my personal website design portfolio! I specialize in creating stunning and functional websites that not only look great but also deliver exceptional user experiences. Below, you'll find links to some of the websites I've designed, along with reasons why you should consider me for your next web project.
 
  👉 [Portfolio Website](https://github.com/tbx0/cloudworks/)
  
