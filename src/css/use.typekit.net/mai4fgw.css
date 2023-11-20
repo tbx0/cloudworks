@@ -1,0 +1,45 @@
+/*
+ * The Typekit service used to deliver this font or fonts for use on websites
+ * is provided by Adobe and is subject to these Terms of Use
+ * http://www.adobe.com/products/eulas/tou_typekit. For font license
+ * information, see the list below.
+ *
+ * acumin-pro:
+ *   - http://typekit.com/eulas/00000000000000003b9acafc
+ *   - http://typekit.com/eulas/00000000000000003b9acaf2
+ *   - http://typekit.com/eulas/00000000000000003b9acaf6
+ * wayfinder-cf:
+ *   - http://typekit.com/eulas/00000000000000007735fa11
+ *
+ * © 2009-2023 Adobe Systems Incorporated. All Rights Reserved.
+ */
+/*{"last_published":"2022-05-07 18:31:57 UTC"}*/
+
+@import url("src/css/p.typekit.net/p88d6.css?s=1&amp;k=mai4fgw&amp;ht=tk&amp;f=26053.26055.26062.49468&amp;a=1494256&amp;app=typekit&amp;e=css");
+
+@font-face {
+font-family:"acumin-pro";
+src:url("af/6d4bb2/00000000000000003b9acafc/27/l1eed?primer=7fa3915bdafdf03041871920a205bef951d72bf64dd4c4460fb992e3ecc3a862&amp;fvd=n7&amp;v=3") format("woff2"),url("af/6d4bb2/00000000000000003b9acafc/27/d1eed?primer=7fa3915bdafdf03041871920a205bef951d72bf64dd4c4460fb992e3ecc3a862&amp;fvd=n7&amp;v=3") format("woff"),url("af/6d4bb2/00000000000000003b9acafc/27/a1eed?primer=7fa3915bdafdf03041871920a205bef951d72bf64dd4c4460fb992e3ecc3a862&amp;fvd=n7&amp;v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:700;font-stretch:normal;
+}
+
+@font-face {
+font-family:"acumin-pro";
+src:url("af/9871e5/00000000000000003b9acaf2/27/le6c3?primer=7fa3915bdafdf03041871920a205bef951d72bf64dd4c4460fb992e3ecc3a862&amp;fvd=n2&amp;v=3") format("woff2"),url("af/9871e5/00000000000000003b9acaf2/27/de6c3?primer=7fa3915bdafdf03041871920a205bef951d72bf64dd4c4460fb992e3ecc3a862&amp;fvd=n2&amp;v=3") format("woff"),url("af/9871e5/00000000000000003b9acaf2/27/ae6c3?primer=7fa3915bdafdf03041871920a205bef951d72bf64dd4c4460fb992e3ecc3a862&amp;fvd=n2&amp;v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:200;font-stretch:normal;
+}
+
+@font-face {
+font-family:"acumin-pro";
+src:url("af/46da36/00000000000000003b9acaf6/27/lbc0f?primer=7fa3915bdafdf03041871920a205bef951d72bf64dd4c4460fb992e3ecc3a862&amp;fvd=n4&amp;v=3") format("woff2"),url("af/46da36/00000000000000003b9acaf6/27/dbc0f?primer=7fa3915bdafdf03041871920a205bef951d72bf64dd4c4460fb992e3ecc3a862&amp;fvd=n4&amp;v=3") format("woff"),url("af/46da36/00000000000000003b9acaf6/27/abc0f?primer=7fa3915bdafdf03041871920a205bef951d72bf64dd4c4460fb992e3ecc3a862&amp;fvd=n4&amp;v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:400;font-stretch:normal;
+}
+
+@font-face {
+font-family:"wayfinder-cf";
+src:url("af/d08650/00000000000000007735fa11/30/l6129?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n1&amp;v=3") format("woff2"),url("af/d08650/00000000000000007735fa11/30/d6129?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n1&amp;v=3") format("woff"),url("af/d08650/00000000000000007735fa11/30/a6129?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n1&amp;v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:100;font-stretch:normal;
+}
+
+.tk-acumin-pro { font-family: "acumin-pro",sans-serif; }
+.tk-wayfinder-cf { font-family: "wayfinder-cf",serif; }
