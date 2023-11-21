@@ -7025,5 +7025,3 @@ Observer.getById = function(id) {
 _getGSAP() && gsap.registerPlugin(Observer);
 
 },{"@parcel/transformer-js/src/esmodule-helpers.js":"gkKU3"}]},["j9r0q","ebWYT"], "ebWYT", "parcelRequire0b33")
-
-//# sourceMappingURL=index.739bf03c.js.map
